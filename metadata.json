@@ -1,0 +1,10 @@
+
+{
+  "name": "Nexus AI Studio",
+  "description": "A high-performance, minimalist AI workspace featuring multi-modal chat, image generation, and real-time voice intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
